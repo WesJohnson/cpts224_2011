@@ -1,5 +1,3 @@
-//john_mcdonald_test
-
 #include <stdio>
 
 int main()
